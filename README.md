@@ -48,6 +48,8 @@
 ## Ansible
 
 [Lab Setup In AWS](https://www.linkedin.com/posts/sangeetv_how-to-create-ansible-lab-in-aws-account-activity-7074705254352637952-pFWd?utm_source=share&utm_medium=member_desktop)
+
+[Using Handlers In Ansible Playbook](https://www.linkedin.com/posts/sangeetv_how-to-use-handlers-in-ansible-activity-7076944338898849792-istq?utm_source=share&utm_medium=member_desktop)
   
 ## ROLE: # 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Leader
  
