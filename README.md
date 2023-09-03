@@ -47,7 +47,7 @@
   
 ## Ansible
 
-[Lab Setup In AWS](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_how-to-create-ansible-lab-in-aws-account-activity-7074705254352637952-BCQZ?utm_source=share&utm_medium=member_desktop)
+[Lab Setup In AWS](https://www.linkedin.com/posts/sangeetv_how-to-create-ansible-lab-in-aws-account-activity-7074705254352637952-pFWd?utm_source=share&utm_medium=member_desktop)
   
 ## ROLE: # 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Leader
  
