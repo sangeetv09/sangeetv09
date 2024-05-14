@@ -54,11 +54,13 @@
 
 [VPC using TWO DIFFERENT SUBNETS](https://medium.com/cloudnloud/vpc-using-two-different-subnets-7ba208781749)
   
- [VPC Peering](https://medium.com/cloudnloud/how-to-set-up-aws-vpc-peering-4fa815818995)
-  
-  [Simple Notification Service (SNS)](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_amazon-simple-notification-service-sns-activity-7065527406110912512--Gq7?utm_source=share&utm_medium=member_desktop)
+[VPC Peering](https://medium.com/cloudnloud/how-to-set-up-aws-vpc-peering-4fa815818995)
 
-   [AWS Billing, Pricing and Cost Management](https://medium.com/@sangeetv09/aws-billing-and-cost-management-0580c7f3853d)
+[Cloud Watch](https://medium.com/@sangeetv09/what-is-cloudwatch-agent-in-aws-8570ec248e4d)
+  
+[Simple Notification Service (SNS)](https://medium.com/cloudnloud/amazon-simple-notification-service-sns-ebe4c45dafa1)
+
+[AWS Billing, Pricing and Cost Management](https://medium.com/@sangeetv09/aws-billing-and-cost-management-0580c7f3853d)
   
 ## Ansible
 
