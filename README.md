@@ -38,7 +38,7 @@
   
 ## AWS
   
-[Elastic Compute Cloud (EC2)](https://medium.com/cloudnloud/how-to-create-an-ec2-instance-d4c91057c69b)
+[Elastic Compute Cloud (EC2)](https://medium.com/cloudnloud/how-to-create-ansible-lab-in-aws-account-8e0972c237c5)
 
 [Auto Scaling to scale Amazon Elastic Compute Cloud (EC2)](https://medium.com/cloudnloud/auto-scaling-in-aws-24ef1fffc1f6)
   
