@@ -40,7 +40,7 @@
   
 [Elastic Compute Cloud (EC2)](https://medium.com/cloudnloud/how-to-create-an-ec2-instance-d4c91057c69b)
 
-[Auto Scaling to scale Amazon Elastic Compute Cloud (EC2)](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_auto-scaling-in-aws-activity-7049644281770250240-LJcW?utm_source=share&utm_medium=member_desktop)
+[Auto Scaling to scale Amazon Elastic Compute Cloud (EC2)](https://medium.com/cloudnloud/auto-scaling-in-aws-24ef1fffc1f6)
   
 [Load Balancer](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_load-balancer-activity-7045441374665510912-mZRs?utm_source=share&utm_medium=member_desktop)
 
