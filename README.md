@@ -51,6 +51,22 @@
 
 [Using Handlers In Ansible Playbook](https://www.linkedin.com/posts/sangeetv_how-to-use-handlers-in-ansible-activity-7076944338898849792-istq?utm_source=share&utm_medium=member_desktop)
 
+[Installing Package through Ansible Playbook](https://www.linkedin.com/posts/sangeetv09_how-to-install-a-package-using-ansible-activity-7104766539756703745--Tmh?utm_source=share&utm_medium=member_desktop)
+
+[Tags in Ansible](https://www.linkedin.com/posts/sangeetv09_tags-in-ansible-playbooks-activity-7109876857726017536-GS8v?utm_source=share&utm_medium=member_desktop)
+
+[Roles in Ansible](https://www.linkedin.com/posts/sangeetv09_amazonwebservices-awscommunitymenacloudnloudtechcommunity-activity-7125354215505350657-HCg8?utm_source=share&utm_medium=member_desktop)
+
+[Patching Using Ansible Roles](https://www.linkedin.com/posts/sangeetv09_patching-using-roles-in-ansible-playbook-activity-7126057311525040129-oXhZ?utm_source=share&utm_medium=member_desktop)
+
+[Firewall Using Ansible Roles](https://www.linkedin.com/posts/sangeetv09_firewall-using-roles-in-ansible-activity-7127889586730516480-lBEr?utm_source=share&utm_medium=member_desktop)
+
+[UseCase1 AWS EC2 Deployment Using Ansible Playbook](https://medium.com/@sangeetv09/aws-ec2-instance-deployment-using-ansible-playbook-ccf56d81b775)
+
+[UseCase2 Patching Using Ansible Playbook](https://medium.com/@sangeetv09/linux-os-patching-using-ansible-playbook-0927e7e92630)
+
+[UseCase3 File Manipulation](https://medium.com/@sangeetv09/file-manipulation-using-ansible-playbook-b678f01d847e)
+
 ## Docker Containers
 
 [Docker for Beginners](https://www.linkedin.com/posts/sangeetv09_docker-containers-for-beginners-activity-7132987760113569793-657y?utm_source=share&utm_medium=member_desktop)
