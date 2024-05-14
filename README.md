@@ -64,11 +64,11 @@
   
 ## Ansible
 
-[Lab Setup In AWS](https://www.linkedin.com/posts/sangeetv_how-to-create-ansible-lab-in-aws-account-activity-7074705254352637952-pFWd?utm_source=share&utm_medium=member_desktop)
+[Lab Setup In AWS](https://medium.com/cloudnloud/how-to-create-ansible-lab-in-aws-account-8e0972c237c5)
 
 [Using Handlers In Ansible Playbook](https://medium.com/cloudnloud/how-to-use-handlers-in-ansible-9e62e17c3b61)
 
-[Installing Package through Ansible Playbook](https://www.linkedin.com/posts/sangeetv09_how-to-install-a-package-using-ansible-activity-7104766539756703745--Tmh?utm_source=share&utm_medium=member_desktop)
+[Installing Package through Ansible Playbook]
 
 [Tags in Ansible](https://www.linkedin.com/posts/sangeetv09_tags-in-ansible-playbooks-activity-7109876857726017536-GS8v?utm_source=share&utm_medium=member_desktop)
 
