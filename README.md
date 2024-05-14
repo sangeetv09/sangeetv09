@@ -44,6 +44,8 @@
  [VPC Peering](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_how-to-set-up-aws-vpc-peering-activity-7063450212723277824-erjs?utm_source=share&utm_medium=member_desktop)
   
   [Simple Notification Service (SNS)](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_amazon-simple-notification-service-sns-activity-7065527406110912512--Gq7?utm_source=share&utm_medium=member_desktop)
+
+   [AWS Billing, Pricing and Cost Management](https://medium.com/@sangeetv09/aws-billing-and-cost-management-0580c7f3853d)
   
 ## Ansible
 
