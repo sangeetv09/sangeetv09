@@ -22,6 +22,19 @@
 [How DNS Domain Name Server works ?](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_dns-domain-name-server-activity-7041730961138479104-IoBX?utm_source=share&utm_medium=member_desktop)
   
 [Secure Socket Layer (SSL)](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_secure-socket-layer-ssl-certificate-activity-7044299302495555584-GIhh?utm_source=share&utm_medium=member_desktop)
+
+
+## GitHub
+
+[UseCase 1: Git Clone](https://medium.com/@sangeetv09/how-to-clone-a-github-repository-65bfecb5aca3)
+
+[USeCase 2: Git Fork](https://medium.com/@sangeetv09/how-to-fork-a-repository-598274ad8893)
+
+[UseCase 3: Git Branching](https://medium.com/@sangeetv09/creating-and-managing-branches-in-github-a675e23e4807)
+
+[UseCase 4: Git Merging](https://medium.com/@sangeetv09/merging-branches-in-github-96cb59cabdbe)
+
+[UseCase 5: Push the code to Remote Repository]
   
 ## AWS
   
