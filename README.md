@@ -48,10 +48,9 @@
 
 [AWS Lambda](https://medium.com/cloudnloud/steps-to-create-aws-lambda-c2b6a96cf61d)
 
-[VPC using NAT Instance]
+[VPC using NAT Instance](https://medium.com/cloudnloud/vpc-virtual-private-cloud-a403a1b9c753)
 
-[VPC using NAT Gateway](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_vpc-with-nat-gateway-activity-7060430845555183616-czcW?utm_source=share&utm_medium=member_desktop)
-
+[VPC using NAT Gateway](
 [VPC using TWO DIFFERENT SUBNETS](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_vpc-using-two-different-subnets-activity-7061000359795720192-hmD6?utm_source=share&utm_medium=member_desktop)
   
  [VPC Peering](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_how-to-set-up-aws-vpc-peering-activity-7063450212723277824-erjs?utm_source=share&utm_medium=member_desktop)
