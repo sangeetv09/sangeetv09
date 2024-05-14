@@ -54,7 +54,7 @@
 
 [VPC using TWO DIFFERENT SUBNETS](https://medium.com/cloudnloud/vpc-using-two-different-subnets-7ba208781749)
   
- [VPC Peering]
+ [VPC Peering](https://medium.com/cloudnloud/how-to-set-up-aws-vpc-peering-4fa815818995)
   
   [Simple Notification Service (SNS)](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_amazon-simple-notification-service-sns-activity-7065527406110912512--Gq7?utm_source=share&utm_medium=member_desktop)
 
