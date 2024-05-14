@@ -42,7 +42,7 @@
 
 [Auto Scaling to scale Amazon Elastic Compute Cloud (EC2)](https://medium.com/cloudnloud/auto-scaling-in-aws-24ef1fffc1f6)
   
-[Load Balancer](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_load-balancer-activity-7045441374665510912-mZRs?utm_source=share&utm_medium=member_desktop)
+[Load Balancer](https://medium.com/cloudnloud/load-balancer-f07ba3ce14b8)
 
 [Multi-Factor Authentication (MFA)](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_multi-factor-authentication-activity-7048877511929200640-mCrk?utm_source=share&utm_medium=member_desktop)
 
