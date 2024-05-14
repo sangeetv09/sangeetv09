@@ -62,6 +62,20 @@
 [Install Docker Using AWS EC2 instance](https://medium.com/@sangeetv09/how-to-install-docker-using-aws-ec2-instance-ed495e5dd7a3)
 
 [Basic Commands Used in Dockerfile](https://medium.com/@sangeetv09/overview-of-dockerfile-e50059316dc9)
+
+## Jenkins
+
+[UseCase1 Single Stage Jenkins Pipeline Job](https://medium.com/@sangeetv09/how-to-create-a-jenkinsfile-7a7eb1a5d834)
+
+[UseCase2 Multiple Stage Jenkins Pipeline Job](https://medium.com/@sangeetv09/how-to-create-simple-multistage-jenkins-pipeline-job-7a5d6113e429)
+
+[UseCase3 Intergrating GitHub and Jenkins](https://medium.com/@sangeetv09/how-to-integrate-git-with-jenkins-dcc63f5cbb13)
+
+[UseCase4 Create a Jenkins Pipeline Using a Jenkinsfile](https://medium.com/@sangeetv09/create-a-jenkins-pipeline-using-a-jenkinsfile-f67b11e3f0b3)
+
+[UseCase5 WebHook Method to trigger Jenkins Pipeline](https://medium.com/@sangeetv09/how-to-configure-webhook-in-github-and-jenkins-for-automatic-trigger-with-cicd-pipeline-34133e9de0ea)
+
+[UseCase6 Poll SCM Method to trigger Jenkins Pipeline](https://medium.com/@sangeetv09/github-integration-with-jenkins-pipeline-by-poll-scm-method-444cdeca0205)
   
 ## ROLE: # 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Leader
  
