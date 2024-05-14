@@ -46,9 +46,9 @@
 
 [Multi-Factor Authentication (MFA)](https://medium.com/cloudnloud/multi-factor-authentication-3641854ffe7c)
 
-[AWS Lambda](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_steps-to-create-aws-lambda-activity-7051080097994342400-_Y_t?utm_source=share&utm_medium=member_desktop)
+[AWS Lambda](https://medium.com/cloudnloud/steps-to-create-aws-lambda-c2b6a96cf61d)
 
-[VPC using NAT Instance](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_vpc-virtual-private-cloud-activity-7059567098938720257-Kh08?utm_source=share&utm_medium=member_desktop)
+[VPC using NAT Instance]
 
 [VPC using NAT Gateway](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_vpc-with-nat-gateway-activity-7060430845555183616-czcW?utm_source=share&utm_medium=member_desktop)
 
