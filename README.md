@@ -38,7 +38,7 @@
   
 ## AWS
   
-[Elastic Compute Cloud (EC2)](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_how-to-create-an-ec2-instance-activity-7067471028381237248-7Cbp?utm_source=share&utm_medium=member_desktop)
+[Elastic Compute Cloud (EC2)](https://medium.com/cloudnloud/how-to-create-an-ec2-instance-d4c91057c69b)
 
 [Auto Scaling to scale Amazon Elastic Compute Cloud (EC2)](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_auto-scaling-in-aws-activity-7049644281770250240-LJcW?utm_source=share&utm_medium=member_desktop)
   
