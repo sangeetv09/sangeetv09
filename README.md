@@ -76,7 +76,7 @@
 
 [Patching Using Ansible Roles](
 
-[Firewall Using Ansible Roles](https://www.linkedin.com/posts/sangeetv09_firewall-using-roles-in-ansible-activity-7127889586730516480-lBEr?utm_source=share&utm_medium=member_desktop)
+[Firewall Using Ansible Roles](https://medium.com/cloudnloud/firewall-using-roles-in-ansible-37b43c8b5482)
 
 [UseCase1 AWS EC2 Deployment Using Ansible Playbook](https://medium.com/@sangeetv09/aws-ec2-instance-deployment-using-ansible-playbook-ccf56d81b775)
 
