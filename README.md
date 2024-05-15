@@ -88,9 +88,9 @@
 
 [Docker for Beginners](https://medium.com/@sangeetv09/docker-containers-for-beginners-4ec2028ca322)
 
-[Docker Container Architecture](https://www.linkedin.com/posts/sangeetv09_docker-architecture-activity-7133339104464797696-yY4F?utm_source=share&utm_medium=member_desktop)
+[Docker Container Architecture](https://medium.com/@sangeetv09/docker-architecture-c29d946d6435)
 
-[Docker Lifecycle Management](https://www.linkedin.com/posts/sangeetv09_docker-container-lifecycle-management-activity-7135158759122767872-3GcN?utm_source=share&utm_medium=member_desktop)
+[Docker Lifecycle Management]
 
 [Install Docker Using AWS EC2 instance](https://medium.com/@sangeetv09/how-to-install-docker-using-aws-ec2-instance-ed495e5dd7a3)
 
