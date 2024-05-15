@@ -90,9 +90,9 @@
 
 [Docker Container Architecture](https://medium.com/@sangeetv09/docker-architecture-c29d946d6435)
 
-[Docker Lifecycle Management]
+[Docker Lifecycle Management](https://medium.com/@sangeetv09/docker-container-lifecycle-management-f3575e31fc59)
 
-[Install Docker Using AWS EC2 instance](https://medium.com/@sangeetv09/how-to-install-docker-using-aws-ec2-instance-ed495e5dd7a3)
+[Install Docker Using AWS EC2 instance](
 
 [Basic Commands Used in Dockerfile](https://medium.com/@sangeetv09/overview-of-dockerfile-e50059316dc9)
 
