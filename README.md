@@ -68,9 +68,9 @@
 
 [Using Handlers In Ansible Playbook](https://medium.com/cloudnloud/how-to-use-handlers-in-ansible-9e62e17c3b61)
 
-[Installing Package through Ansible Playbook]
+[Installing Package through Ansible Playbook](https://medium.com/cloudnloud/how-to-install-a-package-using-ansible-6840dbe96896)
 
-[Tags in Ansible](https://www.linkedin.com/posts/sangeetv09_tags-in-ansible-playbooks-activity-7109876857726017536-GS8v?utm_source=share&utm_medium=member_desktop)
+[Tags in Ansible](
 
 [Roles in Ansible](https://www.linkedin.com/posts/sangeetv09_amazonwebservices-awscommunitymenacloudnloudtechcommunity-activity-7125354215505350657-HCg8?utm_source=share&utm_medium=member_desktop)
 
