@@ -70,7 +70,7 @@
 
 [Installing Package through Ansible Playbook](https://medium.com/cloudnloud/how-to-install-a-package-using-ansible-6840dbe96896)
 
-[Tags in Ansible](
+[Tags in Ansible](https://medium.com/cloudnloud/tags-in-ansible-playbooks-82281047605b)
 
 [Roles in Ansible](https://www.linkedin.com/posts/sangeetv09_amazonwebservices-awscommunitymenacloudnloudtechcommunity-activity-7125354215505350657-HCg8?utm_source=share&utm_medium=member_desktop)
 
