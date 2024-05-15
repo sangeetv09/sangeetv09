@@ -86,7 +86,7 @@
 
 ## Docker Containers
 
-[Docker for Beginners](https://www.linkedin.com/posts/sangeetv09_docker-containers-for-beginners-activity-7132987760113569793-657y?utm_source=share&utm_medium=member_desktop)
+[Docker for Beginners](https://medium.com/@sangeetv09/docker-containers-for-beginners-4ec2028ca322)
 
 [Docker Container Architecture](https://www.linkedin.com/posts/sangeetv09_docker-architecture-activity-7133339104464797696-yY4F?utm_source=share&utm_medium=member_desktop)
 
