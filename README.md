@@ -74,7 +74,7 @@
 
 [Roles in Ansible](https://medium.com/cloudnloud/roles-in-ansible-playbook-ffbe4574641b)
 
-[Patching Using Ansible Roles](
+[Patching Using Ansible Roles](https://medium.com/cloudnloud/patching-using-roles-in-ansible-playbook-f8f23a9c1735)
 
 [Firewall Using Ansible Roles](https://medium.com/cloudnloud/firewall-using-roles-in-ansible-37b43c8b5482)
 
