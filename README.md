@@ -72,9 +72,9 @@
 
 [Tags in Ansible](https://medium.com/cloudnloud/tags-in-ansible-playbooks-82281047605b)
 
-[Roles in Ansible](https://www.linkedin.com/posts/sangeetv09_amazonwebservices-awscommunitymenacloudnloudtechcommunity-activity-7125354215505350657-HCg8?utm_source=share&utm_medium=member_desktop)
+[Roles in Ansible](https://medium.com/cloudnloud/roles-in-ansible-playbook-ffbe4574641b)
 
-[Patching Using Ansible Roles](https://www.linkedin.com/posts/sangeetv09_patching-using-roles-in-ansible-playbook-activity-7126057311525040129-oXhZ?utm_source=share&utm_medium=member_desktop)
+[Patching Using Ansible Roles](
 
 [Firewall Using Ansible Roles](https://www.linkedin.com/posts/sangeetv09_firewall-using-roles-in-ansible-activity-7127889586730516480-lBEr?utm_source=share&utm_medium=member_desktop)
 
