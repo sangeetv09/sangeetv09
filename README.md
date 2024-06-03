@@ -27,6 +27,9 @@
 
 [Highlights of Agile Methodology](https://www.linkedin.com/posts/sangeetv09_amazonwebservices-awscommunitymena-awscommunitybuilders-activity-7203278813823180801-uZh1?utm_source=share&utm_medium=member_desktop)
 
+## Blue Green Deployment
+
+[Benefits of Blue Green Deployment](https://www.linkedin.com/posts/sangeetv09_benefits-of-blue-green-deployment-activity-7201104344920821760-qTeX?utm_source=share&utm_medium=member_desktop)
 
 ## GitHub
 
