@@ -118,6 +118,8 @@
 [UseCase6 Poll SCM Method to trigger Jenkins Pipeline](https://medium.com/@sangeetv09/github-integration-with-jenkins-pipeline-by-poll-scm-method-444cdeca0205)
 
 ## Kubernetes
+
+[Use Case1 Self-Healing](https://medium.com/@sangeetv09/how-to-use-kubernetes-self-healing-capability-92f5335a97e1)
   
 ## ROLE: # 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Leader
  
