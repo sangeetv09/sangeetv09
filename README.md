@@ -68,6 +68,8 @@
 [Simple Notification Service (SNS)](https://medium.com/cloudnloud/amazon-simple-notification-service-sns-ebe4c45dafa1)
 
 [AWS Billing, Pricing and Cost Management](https://medium.com/@sangeetv09/aws-billing-and-cost-management-0580c7f3853d)
+
+[Hosting a Static Website on AWS S3](https://www.linkedin.com/posts/sangeetv09_how-to-host-a-static-website-on-aws-s3-activity-7213797600959881217-AOFv?utm_source=share&utm_medium=member_desktop)
   
 ## Ansible
 
