@@ -121,6 +121,8 @@
 
 ## Kubernetes
 
+[Crearte a Minikube cluster in an EC2 instance]()
+
 [Use Case1 Self-Healing](https://medium.com/@sangeetv09/how-to-use-kubernetes-self-healing-capability-92f5335a97e1)
   
 ## ROLE: # 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Leader
