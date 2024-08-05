@@ -23,6 +23,10 @@
   
 [Secure Socket Layer (SSL)](https://www.linkedin.com/posts/sangeetha-vasudevan-86267624_secure-socket-layer-ssl-certificate-activity-7044299302495555584-GIhh?utm_source=share&utm_medium=member_desktop)
 
+## Shell Scripting
+
+[Top 15 Shell Script interview questions](https://medium.com/@sangeetv09/top-15-shell-script-interview-questions-5e921d12f749)
+
 ## Agile Methodology
 
 [Highlights of Agile Methodology](https://www.linkedin.com/posts/sangeetv09_amazonwebservices-awscommunitymena-awscommunitybuilders-activity-7203278813823180801-uZh1?utm_source=share&utm_medium=member_desktop)
