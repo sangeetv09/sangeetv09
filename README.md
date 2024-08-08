@@ -127,6 +127,8 @@
 
 [Crearte a Minikube cluster on an EC2 instance](https://medium.com/@sangeetv09/my-first-kubernetes-cluster-mini-kube-on-an-ec2-instance-8daff652274d)
 
+[Deployemnt Strategies in kubernetes](https://www.linkedin.com/posts/sangeetv09_amazonwebservices-awscommunitymena-awscommunitybuilders-activity-7222091054341079040-Aq2L?utm_source=share&utm_medium=member_desktop)
+
 [Use Case1 Self-Healing](https://medium.com/@sangeetv09/how-to-use-kubernetes-self-healing-capability-92f5335a97e1)
   
 ## ROLE: # 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Leader
