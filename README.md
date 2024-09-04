@@ -45,7 +45,7 @@
 
 [UseCase 4: Git Merging](https://medium.com/@sangeetv09/merging-branches-in-github-96cb59cabdbe)
 
-[UseCase 5: Push the code to Remote Repository]
+[UseCase 5: Adding a local repository to GitHub with GitHub CLI]
   
 ## AWS
   
