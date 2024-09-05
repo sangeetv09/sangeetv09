@@ -46,6 +46,8 @@
 [UseCase 4: Git Merging](https://medium.com/@sangeetv09/merging-branches-in-github-96cb59cabdbe)
 
 [UseCase 5: Adding a local repository to GitHub with GitHub CLI](https://medium.com/@sangeetv09/how-to-push-local-git-repo-to-remote-repo-in-github-3207fe7d0243)
+
+[WorkFlow using GitHub Actions]
   
 ## AWS
   
