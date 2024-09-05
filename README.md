@@ -4,7 +4,7 @@
 <div id="header" align="center">
   <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 #💫 About Me:
-🔭 I’m currently working as a DevOps Engineer<br>👯 I’m looking to collaborate on DevOps in UAE<br>🤝 I’m looking for help with any Consulting.<br>👀 I’m interested in DevOps Tools.<br>🌱 I’m currently learning Kubernetes.<br>💬 Ask me about anything that you need help<br>📫 Reach me at <a href="https://www.linkedin.com/in/sangeetv09/"><br>    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/><br>  </a><br>
+🔭 Dedicated DevOps Engineer with 6 yrs of experience in achieving tangible results in automating infrastructure, implementing CI/CD pipelines and managing cloud-based services. I’m currently working as a DevOps Engineer<br>👯 I’m looking to collaborate on DevOps in UAE<br>🤝 I’m looking for help with any Consulting.<br>👀 I’m interested in DevOps Tools.<br>🌱 I’m currently learning Kubernetes.<br>💬 Ask me about anything that you need help<br>📫 Reach me at <a href="https://www.linkedin.com/in/sangeetv09/"><br>    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/><br>  </a><br>
 
 </div>
 
