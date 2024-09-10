@@ -47,7 +47,7 @@
 
 [UseCase 5: Adding a local repository to GitHub with GitHub CLI](https://medium.com/@sangeetv09/how-to-push-local-git-repo-to-remote-repo-in-github-3207fe7d0243)
 
-[WorkFlow using GitHub Actions]
+[Event Triggers, Event Filters and Activity Types in GitHub Actions](https://medium.com/@sangeetv09/understanding-more-about-event-triggers-event-filters-and-activity-types-in-github-actions-8bfaec5b101e)
   
 ## AWS
   
