@@ -49,7 +49,9 @@
 
 ## GitHub Actions
 
-[Workflow using Event Triggers, Event Filters and Activity Types in GitHub Actions](https://medium.com/@sangeetv09/understanding-more-about-event-triggers-event-filters-and-activity-types-in-github-actions-8bfaec5b101e)
+[UseCase 1: Workflow using Event Triggers, Event Filters and Activity Types in GitHub Actions](https://medium.com/@sangeetv09/understanding-more-about-event-triggers-event-filters-and-activity-types-in-github-actions-8bfaec5b101e)
+
+[UseCase 2: Workflow which prints the shell commands in GitHub Actions]
   
 ## AWS
   
