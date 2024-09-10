@@ -52,7 +52,8 @@
 [UseCase 1: Workflow using Event Triggers, Event Filters and Activity Types in GitHub Actions](https://medium.com/@sangeetv09/understanding-more-about-event-triggers-event-filters-and-activity-types-in-github-actions-8bfaec5b101e)
 
 [UseCase 2: Using shell commands in workflow]
-  
+
+[UseCase 3: Executing shell script in workflow]  
 ## AWS
   
 [Elastic Compute Cloud (EC2)](https://medium.com/cloudnloud/how-to-create-ansible-lab-in-aws-account-8e0972c237c5)
