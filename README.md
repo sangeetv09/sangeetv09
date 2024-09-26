@@ -58,6 +58,8 @@
   
 [Elastic Compute Cloud (EC2)](https://medium.com/cloudnloud/how-to-create-ansible-lab-in-aws-account-8e0972c237c5)
 
+# Storage
+
 [Increase EBS Volume Size](https://medium.com/@sangeetv09/increase-ebs-volume-size-without-stopping-ec2-instance-in-aws-a4cf06264884)
 
 [Attach and Mount Extra EBS Volume to Windows EC2](https://medium.com/@sangeetv09/how-to-attach-and-mount-extra-ebs-volume-to-windows-ec2-in-aws-5bc45dc984f8)
