@@ -60,6 +60,8 @@
 
 [Increase EBS Volume Size](https://medium.com/@sangeetv09/increase-ebs-volume-size-without-stopping-ec2-instance-in-aws-a4cf06264884)
 
+[Attach and Mount Extra EBS Volume to Windows EC2](https://medium.com/@sangeetv09/how-to-attach-and-mount-extra-ebs-volume-to-windows-ec2-in-aws-5bc45dc984f8)
+
 [Auto Scaling to scale Amazon Elastic Compute Cloud (EC2)](https://medium.com/cloudnloud/auto-scaling-in-aws-24ef1fffc1f6)
   
 [Load Balancer](https://medium.com/cloudnloud/load-balancer-f07ba3ce14b8)
