@@ -58,6 +58,8 @@
   
 [Elastic Compute Cloud (EC2)](https://medium.com/cloudnloud/how-to-create-ansible-lab-in-aws-account-8e0972c237c5)
 
+[Increase EBS Volume Size](https://medium.com/@sangeetv09/increase-ebs-volume-size-without-stopping-ec2-instance-in-aws-a4cf06264884)
+
 [Auto Scaling to scale Amazon Elastic Compute Cloud (EC2)](https://medium.com/cloudnloud/auto-scaling-in-aws-24ef1fffc1f6)
   
 [Load Balancer](https://medium.com/cloudnloud/load-balancer-f07ba3ce14b8)
