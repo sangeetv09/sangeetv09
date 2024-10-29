@@ -54,15 +54,10 @@
 [UseCase 2: Using shell commands in workflow]
 
 [UseCase 3: Executing shell script in workflow]  
+
 ## AWS
   
 [Elastic Compute Cloud (EC2)](https://medium.com/cloudnloud/how-to-create-ansible-lab-in-aws-account-8e0972c237c5)
-
-### Storage
-
-[Increase EBS Volume Size](https://medium.com/@sangeetv09/increase-ebs-volume-size-without-stopping-ec2-instance-in-aws-a4cf06264884)
-
-[Attach and Mount Extra EBS Volume to Windows EC2](https://medium.com/@sangeetv09/how-to-attach-and-mount-extra-ebs-volume-to-windows-ec2-in-aws-5bc45dc984f8)
 
 [Auto Scaling to scale Amazon Elastic Compute Cloud (EC2)](https://medium.com/cloudnloud/auto-scaling-in-aws-24ef1fffc1f6)
   
@@ -86,7 +81,17 @@
 
 [AWS Billing, Pricing and Cost Management](https://medium.com/@sangeetv09/aws-billing-and-cost-management-0580c7f3853d)
 
-[Hosting a Static Website on AWS S3](https://www.linkedin.com/posts/sangeetv09_how-to-host-a-static-website-on-aws-s3-activity-7213797600959881217-AOFv?utm_source=share&utm_medium=member_desktop)
+### Storage
+
+[Increase EBS Volume Size](https://medium.com/@sangeetv09/increase-ebs-volume-size-without-stopping-ec2-instance-in-aws-a4cf06264884)
+
+[Attach and Mount Extra EBS Volume to Windows EC2](https://medium.com/@sangeetv09/how-to-attach-and-mount-extra-ebs-volume-to-windows-ec2-in-aws-5bc45dc984f8)
+
+[Restore Data to EBS volume in Windows EC2 using Snapshot in AWS cloud](https://medium.com/@sangeetv09/restore-data-to-ebs-volume-in-windows-ec2-using-snapshot-in-aws-cloud-0202cc22030b)
+
+### Projects
+
+[Project 1: Hosting a Static Website on AWS S3](https://www.linkedin.com/posts/sangeetv09_how-to-host-a-static-website-on-aws-s3-activity-7213797600959881217-AOFv?utm_source=share&utm_medium=member_desktop)
   
 ## Ansible
 
