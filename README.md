@@ -92,6 +92,8 @@
 ### Projects
 
 [Project 1: Hosting a Static Website on AWS S3](https://www.linkedin.com/posts/sangeetv09_how-to-host-a-static-website-on-aws-s3-activity-7213797600959881217-AOFv?utm_source=share&utm_medium=member_desktop)
+
+[Project 2: Building a Containerized Web Application using Amazon ECS and AWS Fargate]
   
 ## Ansible
 
