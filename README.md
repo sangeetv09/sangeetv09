@@ -94,6 +94,8 @@
 [Project 1: Hosting a Static Website on AWS S3](https://www.linkedin.com/posts/sangeetv09_how-to-host-a-static-website-on-aws-s3-activity-7213797600959881217-AOFv?utm_source=share&utm_medium=member_desktop)
 
 [Project 2: Building a Containerized Web Application using Amazon ECS and AWS Fargate](https://medium.com/@sangeetv09/project-2-building-a-containerized-web-application-using-amazon-ecs-and-aws-fargate-7fb9026e7ea2)
+
+[Project 3: A simple CI/CD pipeline with AWS CodePipeline]
   
 ## Ansible
 
