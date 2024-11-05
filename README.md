@@ -1,7 +1,7 @@
 ## Hi there, I'm Sangeetha 👋
 #💫 About Me:
-<br>Welcome to my GitHub profile! I'm a DevOps Engineer (6+ years of experience) in Envision Info Tech (India) having DevOps and Cloud expertise with a strong background in automating and monitoring deployments in AWS with CICD and implementing DevOps best practices. 
-🔭 <br>👯 I’m looking to collaborate on DevOps in UAE<br>🤝 I’m looking for help with any Consulting.<br>👀 I’m interested in DevOps Tools.<br>🌱 I’m currently learning Kubernetes.<br>📫 Reach me at <a href="https://www.linkedin.com/in/sangeetv09/"><br>    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/><br>  </a><br>
+<br>🌱Welcome to my GitHub profile! I'm a DevOps Engineer (6+ years of experience) in Envision Info Tech (India) having DevOps and Cloud expertise with a strong background in automating and monitoring deployments in AWS with CICD and implementing DevOps best practices. 
+🔭 <br>👯 I’m looking to collaborate on DevOps in UAE<br>🤝👀 I’m looking for help with any Consulting.<br>📫 Reach me at <a href="https://www.linkedin.com/in/sangeetv09/"><br>    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/><br>  </a><br>
 
 
 </div>
