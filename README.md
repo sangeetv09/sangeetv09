@@ -2,6 +2,8 @@
 #💫 About Me:
 <br>Welcome to my GitHub profile! I'm a DevOps Engineer (6+ years of experience) in Envision Info Tech (India) having DevOps and Cloud expertise with a strong background in automating and monitoring deployments in AWS with CICD and implementing DevOps best practices. 
 🔭 <br>👯 I’m looking to collaborate on DevOps in UAE<br>🤝 I’m looking for help with any Consulting.<br>👀 I’m interested in DevOps Tools.<br>🌱 I’m currently learning Kubernetes.<br>💬 Ask me about anything that you need help<br>📫 Reach me at <a href="https://www.linkedin.com/in/sangeetv09/"><br>    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/><br>  </a><br>
+<a href="geetha.aroon@gmail.com"><br>    <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://www.google.com/imgres?imgurl=https%3A%2F%2Fbanner2.cleanpng.com%2F20180824%2Fksa%2Fkisspng-product-design-brand-gmail-logo-clip-art-assicurati-di-poter-ricevere-le-email-dal-supp-5b7fedbeb2f625.938320361535110590733.jpg&tbnid=4DZofHDL0V0o3M&vet=10CBIQxiAoBWoXChMIgJbe6eHEiQMVAAAAAB0AAAAAEA4..i&imgrefurl=https%3A%2F%2Fwww.cleanpng.com%2Fpng-product-design-brand-gmail-logo-clip-art-assicurat-6362249%2F&docid=DvgCAz4aj9K8MM&w=900&h=320&itg=1&q=gmail%20badge%20image&ved=0CBIQxiAoBWoXChMIgJbe6eHEiQMVAAAAAB0AAAAAEA4)" alt="Gmail Badge"/><br>  </a><br>
+
 
 </div>
 
