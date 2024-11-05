@@ -1,7 +1,7 @@
 ## Hi there, I'm Sangeetha 👋
 #💫 About Me:
-Welcome to my GitHub profile! I'm a Senior System Engineer (2.8 + years of experience) in Infosys (India) having DevOps and Cloud expertise with a strong background in automating and monitoring deployments in AWS with CICD and implementing DevOps best practices.
-🔭 Dedicated DevOps Engineer with 7 yrs of experience in achieving tangible results in automating infrastructure, implementing CI/CD pipelines and managing cloud-based services. I’m currently working as a DevOps Engineer<br>👯 I’m looking to collaborate on DevOps in UAE<br>🤝 I’m looking for help with any Consulting.<br>👀 I’m interested in DevOps Tools.<br>🌱 I’m currently learning Kubernetes.<br>💬 Ask me about anything that you need help<br>📫 Reach me at <a href="https://www.linkedin.com/in/sangeetv09/"><br>    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/><br>  </a><br>
+Welcome to my GitHub profile! I'm a DevOps Engineer (6+ years of experience) in Envision Info Tech (India) having DevOps and Cloud expertise with a strong background in automating and monitoring deployments in AWS with CICD and implementing DevOps best practices. 
+🔭 Dedicated DevOps Engineer with 7 yrs of experience in achieving tangible results in automating infrastructure, implementing CI/CD pipelines and managing cloud-based services.<br>👯 I’m looking to collaborate on DevOps in UAE<br>🤝 I’m looking for help with any Consulting.<br>👀 I’m interested in DevOps Tools.<br>🌱 I’m currently learning Kubernetes.<br>💬 Ask me about anything that you need help<br>📫 Reach me at <a href="https://www.linkedin.com/in/sangeetv09/"><br>    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/><br>  </a><br>
 
 </div>
 
