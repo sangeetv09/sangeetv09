@@ -1,6 +1,6 @@
 ## Hi there, I'm Sangeetha 👋
-#💫 About Me:
 <br>🌱Welcome to my GitHub profile! 
+#💫 About Me:
 <br>🔭I'm a DevOps Engineer (6+ years of experience) in Envision Info Tech (India) having DevOps and Cloud expertise with a strong background in automating and monitoring deployments in AWS with CICD and implementing DevOps best practices. 
  <br>👯 I’m looking to collaborate on DevOps in UAE<br>🤝👀 I’m looking for help with any Consulting.
  ### My Technical Expertise 🛠️
