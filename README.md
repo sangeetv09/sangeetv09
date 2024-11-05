@@ -10,8 +10,8 @@
  ##### * Scripting: Shell Scripting Ansible
  ##### * Cloud Platforms: AWS
  ##### * Containerization: Docker Kubernetes
- ##### * CI/CD Tools: 
- ##### * Infrastructure as Code: 
+ ##### * CI/CD Tools:  Jenkins GitHub Actions
+ ##### * Infrastructure as Code: Terraform Ansible
  ##### * Web Servers: Tomcat WebLogic HTTPD 
  
  
