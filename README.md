@@ -111,7 +111,7 @@ Cloud Infrastructure.
 
 [Project 2: Building a Containerized Web Application using Amazon ECS and AWS Fargate](https://medium.com/@sangeetv09/project-2-building-a-containerized-web-application-using-amazon-ecs-and-aws-fargate-7fb9026e7ea2)
 
-[Project 3: Hosting a Website with Web Application Firewall (WAF)] (https://medium.com/@sangeetv09/hosting-a-website-on-aws-ec2-instance-with-web-application-firewall-waf-6afeae889966)
+[Project 3: Hosting a Website with Web Application Firewall (WAF)](https://medium.com/@sangeetv09/hosting-a-website-on-aws-ec2-instance-with-web-application-firewall-waf-6afeae889966)
 
 [Project 4: A simple CI/CD pipeline with AWS CodePipeline]
   
