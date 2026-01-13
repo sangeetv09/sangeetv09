@@ -1,7 +1,7 @@
 ## Hi there, I'm Sangeetha 👋
 🌱Welcome to my GitHub profile! 
 <br>💫 About Me:
-<br>🔭I'm a DevOps Engineer (6+ years of experience) in TGK Streamline Solutions (India) having DevOps and Cloud expertise with a strong background in automating and monitoring deployments in AWS with CICD and implementing DevOps best practices. Dedicated and result driven DevOps Professional. Skilled in supporting, automating, and deploying application on servers and AWS cloud. Source code management with git and leveraging configuration and infrastructures with Terraform and Ansible. Experienced in Jenkins CI-CD process and DevOps methodologies. Seeking professional enrichment opportunities in DevOps Technologies &
+<br>🔭I'm a DevOps Engineer (7+ years of experience) in TGK Streamline Solutions (India) having DevOps and Cloud expertise with a strong background in automating and monitoring deployments in AWS with CICD and implementing DevOps best practices. Dedicated and result driven DevOps Professional. Skilled in supporting, automating, and deploying application on servers and AWS cloud. Source code management with git and leveraging configuration and infrastructures with Terraform and Ansible. Experienced in Jenkins CI-CD process and DevOps methodologies. Seeking professional enrichment opportunities in DevOps Technologies &
 Cloud Infrastructure.
  
  <br>👯 I’m looking to collaborate on DevOps <br>🤝👀 I’m looking for help with any Consulting.
